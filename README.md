@@ -32,7 +32,7 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   <img src="/icons/GSAP.png" title="GSAP" alt="gsap" width="44"/>&nbsp;
 </div>
 </kbd>
-</kbd>
+<kbd>
 <div>
   <h4>Backend:</h4>
   <img src="/icons/NodeJS.png" title="NodeJS" alt="nodejs" width="44"/>&nbsp;
