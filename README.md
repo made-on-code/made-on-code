@@ -1,6 +1,6 @@
 ## Максим ✦ Frontend разработчик
 
-<h3>Frontend:</h3>
+<h4>Frontend:</h4>
 <div>
   <img src="/icons/HTML.png" title="HTML" alt="html" width="44"/>&nbsp;
   <img src="/icons/CSS.png" title="CSS" alt="css" width="44"/>&nbsp;
