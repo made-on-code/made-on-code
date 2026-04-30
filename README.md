@@ -1,8 +1,8 @@
 ## Максим ✦ Frontend разработчик
 
 <div>
-  <img class="icon" src="/icons/TelegramButton.png" title="HTML" alt="html" width="44"/>&nbsp;
-  <img class="icon" src="/icons/EMailButton.png" title="HTML" alt="html" width="44"/>&nbsp;
+  <img class="icon" src="/icons/TelegramButton.png" title="HTML" alt="html" width="70"/>&nbsp;
+  <img class="icon" src="/icons/EMailButton.png" title="HTML" alt="html" width="70"/>&nbsp;
 </div>
 
 <h4>Frontend:</h4>
