@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" border="2px solid">
   <h3>Москвитин Максим</h3>
   <p>Frontend разарботчик</p>
   <a href="https://t.me/onemv">
