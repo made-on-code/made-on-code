@@ -1,5 +1,6 @@
 <div align="center">
-  <h1>Максим Москвитин / Frontend-разработчик</h1>
+  <h3>Москвитин Максим</h3>
+  <p>Frontend разарботчик</p>
   <a href="https://t.me/onemv">
     <img class="icon" src="/icons/TelegramButton.png" title="Открыть Telegram" alt="html" width="100"/>
   </a>&nbsp;
