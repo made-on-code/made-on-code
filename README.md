@@ -43,6 +43,7 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   <img src="/icons/mySQL.png" title="MySQL" alt="mysql" width="44"/>&nbsp;
 </div>
 </kbd>
+<kbd>
 <div>
   <h4>Инструменты:</h4>
   <kbd>
@@ -54,5 +55,5 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   <img src="/icons/pnpm.png" title="PNPM" alt="pnpm" width="44"/>&nbsp;
   <img src="/icons/Figma.png" title="Figma" alt="figma" width="44"/>&nbsp;
   <img src="/icons/cPanel.png" title="cPanel" alt="cpanel" width="44"/>&nbsp;
-  </kbd>
 </div>
+  </kbd>
