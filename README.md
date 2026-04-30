@@ -10,8 +10,8 @@
 </div>
 </center>
 
-<h4>Frontend:</h4>
 <div>
+  <h4>Frontend:</h4>
   <img class="icon" src="/icons/HTML.png" title="HTML" alt="html" width="44"/>&nbsp;
   <img src="/icons/CSS.png" title="CSS" alt="css" width="44"/>&nbsp;
   <img src="/icons/JS.png" title="JS" alt="js" width="44"/>&nbsp;
@@ -33,6 +33,8 @@
   <img src="/icons/Prisma.png" title="Prisma" alt="prisma" width="44"/>&nbsp;
   <img src="/icons/OpenAPI.png" title="OpenAPI" alt="openapi" width="44"/>&nbsp;
   <img src="/icons/php.png" title="PHP" alt="php" width="44"/>&nbsp;
+  <img src="/icons/mySQL.png" title="MySQL" alt="mysql" width="44"/>&nbsp;
+  
 </div>
 <h4>Инструменты:</h4>
 <div>
@@ -43,4 +45,5 @@
   <img src="/icons/npm.png" title="NPM" alt="npm" width="44"/>&nbsp;
   <img src="/icons/pnpm.png" title="PNPM" alt="pnpm" width="44"/>&nbsp;
   <img src="/icons/Figma.png" title="Figma" alt="figma" width="44"/>&nbsp;
+  <img src="/icons/cPanel.png" title="cPanel" alt="cpanel" width="44"/>&nbsp;
 </div>
