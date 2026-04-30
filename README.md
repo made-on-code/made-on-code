@@ -1,6 +1,6 @@
 ## Максим ✦ Frontend разработчик
-<center>
-<div>
+
+<div align="center">
   <a href="https://t.me/onemv">
     <img class="icon" src="/icons/TelegramButton.png" title="Открыть Telegram" alt="html" width="100"/>
   </a>&nbsp;
@@ -8,7 +8,6 @@
     <img class="icon" src="/icons/EMailButton.png" title="Отправить письмо на E-Mail" alt="html" width="100"/>
   </a>&nbsp;
 </div>
-</center>
 
 <div>
   <h4>Frontend:</h4>
