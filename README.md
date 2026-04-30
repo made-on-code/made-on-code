@@ -2,10 +2,10 @@
 
 <div>
   <a href="https://t.me/onemv">
-    <img class="icon" src="/icons/TelegramButton.png" title="HTML" alt="html" width="100"/>
+    <img class="icon" src="/icons/TelegramButton.png" title="Открыть Telegram" alt="html" width="100"/>
   </a>&nbsp;
   <a href="mailto:mvdeon@yandex.ru">
-    <img class="icon" src="/icons/EMailButton.png" title="HTML" alt="html" width="100"/>
+    <img class="icon" src="/icons/EMailButton.png" title="Отправить письмо на E-Mail" alt="html" width="100"/>
   </a>&nbsp;
 </div>
 
