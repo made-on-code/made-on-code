@@ -13,7 +13,7 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   </a>
 
 
-<kbd>
+
 <div>
   <h4>Frontend:</h4>
   <img class="icon" src="/icons/HTML.png" title="HTML" alt="html" width="44"/>&nbsp;
@@ -42,6 +42,7 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
 
 <div>
   <h4>Инструменты:</h4>
+  <kbd>
   <img src="/icons/Docker.png" title="Docker" alt="docker" width="44"/>&nbsp;
   <img src="/icons/git.png" title="Git" alt="git" width="44"/>&nbsp;
   <img src="/icons/GH.png" title="GitHub" alt="github" width="44"/>&nbsp;
@@ -50,5 +51,5 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   <img src="/icons/pnpm.png" title="PNPM" alt="pnpm" width="44"/>&nbsp;
   <img src="/icons/Figma.png" title="Figma" alt="figma" width="44"/>&nbsp;
   <img src="/icons/cPanel.png" title="cPanel" alt="cpanel" width="44"/>&nbsp;
+  </kbd>
 </div>
-</kbd>
