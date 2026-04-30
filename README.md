@@ -1,5 +1,6 @@
-<kbd>
+
 <div align="center">
+  <kbd>
   <h3>Москвитин Максим</h3>
   <p>Frontend разарботчик</p>
   <a href="https://t.me/onemv">
@@ -8,8 +9,9 @@
   <a href="mailto:mvdeon@yandex.ru">
     <img class="icon" src="/icons/EMailButton.png" title="Отправить письмо на E-Mail" alt="html" width="100"/>
   </a>&nbsp;
+  </kbd>
 </div>
-</kbd>
+
 
 <div>
   <h4>Frontend:</h4>
