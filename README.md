@@ -1,6 +1,6 @@
 
 ## Максим ✦ Frontend-разработчик
-Frontend (2+ года коммерции) | Backend (Pet-projects) | Agile Team Player
+Frontend (более 1 года коммерции) | Backend (Pet-projects) | Agile Team Player
 
   <a href="https://t.me/onemv">
     <img class="icon" src="/icons/TelegramButton.png" title="Открыть Telegram" alt="html" width="100"/>
