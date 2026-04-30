@@ -2,7 +2,7 @@
 
 <h4>Frontend:</h4>
 <div>
-  <img src="/icons/HTML.png" title="HTML" alt="html" width="44"/>&nbsp;
+  <img class="icon" src="/icons/HTML.png" title="HTML" alt="html" width="44"/>&nbsp;
   <img src="/icons/CSS.png" title="CSS" alt="css" width="44"/>&nbsp;
   <img src="/icons/JS.png" title="JS" alt="js" width="44"/>&nbsp;
   <img src="/icons/TS.png" title="TS" alt="ts" width="44"/>&nbsp;
@@ -23,3 +23,9 @@
   <img src="/icons/php.png" title="PHP" alt="php" width="44"/>&nbsp;
 </div>
 
+
+<style>
+  .icon:hover {
+    width: 55px;
+  }
+</style>
