@@ -14,7 +14,8 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
 
 
 
-<kbd><div>
+<kbd>
+<div>
   <h4>Frontend:</h4>
   <img class="icon" src="/icons/HTML.png" title="HTML" alt="html" width="44"/>&nbsp;
   <img src="/icons/CSS.png" title="CSS" alt="css" width="44"/>&nbsp;
@@ -29,7 +30,8 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   <img src="/icons/Zustand.png" title="Zustand" alt="zustand" width="44"/>&nbsp;
   <img src="/icons/ThreeJS.png" title="ThreeJS" alt="threejs" width="44"/>&nbsp;
   <img src="/icons/GSAP.png" title="GSAP" alt="gsap" width="44"/>&nbsp;
-</kbd></div>
+</div>
+</kbd>
 <div>
   <h4>Backend:</h4>
   <img src="/icons/NodeJS.png" title="NodeJS" alt="nodejs" width="44"/>&nbsp;
