@@ -1,6 +1,6 @@
 
 <div align="center">
-  <kbd><div align="left"><img class="icon" src="/icons/windowIcons.png" title="" alt="" width="20"/>&nbsp;</div></kbd>
+  <kbd><div align="left"><img class="icon" src="/icons/windowIcons.png" title="" alt="" width="20"/></div></kbd>
   <kbd>
   <h3>Москвитин Максим</h3>
   <p>Frontend разарботчик</p>
