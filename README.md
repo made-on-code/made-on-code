@@ -3,7 +3,7 @@
   <kbd>
   <img align="left" class="icon" src="/icons/windowIcons.png" title="" alt="" width="30"/>&nbsp;
   <h3>Москвитин Максим</h3>
-  _Frontend разарботчик_
+  <i>Frontend разарботчик</i>
   <kbd>
   <a href="https://t.me/onemv">
     <img class="icon" src="/icons/TelegramButton.png" title="Открыть Telegram" alt="html" width="100"/>
