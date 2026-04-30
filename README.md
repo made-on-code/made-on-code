@@ -1,22 +1,14 @@
 
-<div align="center">
-  <kbd>
-  <img align="left" class="icon" src="/icons/windowIcons.png" title="" alt="" width="30"/>&nbsp;
-  <h2>Москвитин Максим</h2>
-  <a>Frontend разарботчик</a>
-    <p>Опыт в разработке Web-приложений более 1 года</p>
-    <br>
-    <br>
-  <kbd>
+## Максим ✦ Frontend-разработчик
+Frontend (2+ года коммерции) | Backend (Pet-projects) | Agile Team Player
+
   <a href="https://t.me/onemv">
     <img class="icon" src="/icons/TelegramButton.png" title="Открыть Telegram" alt="html" width="100"/>
   </a>
   <a href="mailto:mvdeon@yandex.ru">
     <img class="icon" src="/icons/EMailButton.png" title="Отправить письмо на E-Mail" alt="html" width="100"/>
   </a>
-  </kbd>
-  </kbd>
-</div>
+
 
 
 <div>
