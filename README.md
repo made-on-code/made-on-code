@@ -4,7 +4,9 @@
   <img align="left" class="icon" src="/icons/windowIcons.png" title="" alt="" width="30"/>&nbsp;
   <h2>Москвитин Максим</h2>
   <a>Frontend разарботчик</a>
-  <br><br>
+  <br>
+    <p>Опыт в разработке Web-приложений более 1 года</p>
+    <br>
   <kbd>
   <a href="https://t.me/onemv">
     <img class="icon" src="/icons/TelegramButton.png" title="Открыть Telegram" alt="html" width="100"/>
