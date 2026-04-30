@@ -1,7 +1,7 @@
 
 <div align="center">
   <kbd>
-  <kbd><div align="left"><img class="icon" src="/icons/windowIcons.png" title="" alt="" width="20"/><p>      profile      </p></div></kbd>
+  <kbd><div align="left"><img class="icon" src="/icons/windowIcons.png" title="" alt="" width="20"/>&nbsp<p>      profile      </p></div></kbd>
   <h3>Москвитин Максим</h3>
   <p>Frontend разарботчик</p>
   <kbd>
