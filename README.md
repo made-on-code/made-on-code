@@ -4,8 +4,8 @@
   <img align="left" class="icon" src="/icons/windowIcons.png" title="" alt="" width="30"/>&nbsp;
   <h2>Москвитин Максим</h2>
   <a>Frontend разарботчик</a>
-  <br>
     <p>Опыт в разработке Web-приложений более 1 года</p>
+    <br>
     <br>
   <kbd>
   <a href="https://t.me/onemv">
