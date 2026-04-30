@@ -13,7 +13,7 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   </a>
 
 
-
+<kbd>
 <div>
   <h4>Frontend:</h4>
   <img class="icon" src="/icons/HTML.png" title="HTML" alt="html" width="44"/>&nbsp;
@@ -51,4 +51,4 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   <img src="/icons/Figma.png" title="Figma" alt="figma" width="44"/>&nbsp;
   <img src="/icons/cPanel.png" title="cPanel" alt="cpanel" width="44"/>&nbsp;
 </div>
-
+</kbd>
