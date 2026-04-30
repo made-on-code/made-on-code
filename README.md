@@ -2,7 +2,7 @@
 <div align="center">
   <kbd>
   <img align="left" class="icon" src="/icons/windowIcons.png" title="" alt="" width="30"/>&nbsp;
-  <h3>Москвитин Максим</h3>
+  <h2>Москвитин Максим</h2>
   <a>Frontend разарботчик</a>
   <br><br>
   <kbd>
