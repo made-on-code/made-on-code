@@ -1,4 +1,5 @@
-<div align="center" style="border: 2px solid #fff;">
+<kbd>
+<div align="center">
   <h3>Москвитин Максим</h3>
   <p>Frontend разарботчик</p>
   <a href="https://t.me/onemv">
@@ -8,6 +9,7 @@
     <img class="icon" src="/icons/EMailButton.png" title="Отправить письмо на E-Mail" alt="html" width="100"/>
   </a>&nbsp;
 </div>
+</kbd>
 
 <div>
   <h4>Frontend:</h4>
