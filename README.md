@@ -22,10 +22,12 @@
   <img src="/icons/OpenAPI.png" title="OpenAPI" alt="openapi" width="44"/>&nbsp;
   <img src="/icons/php.png" title="PHP" alt="php" width="44"/>&nbsp;
 </div>
-
-
-<style>
-  .icon:hover {
-    width: 55px;
-  }
-</style>
+<h4>Инструменты:</h4>
+<div>
+  <img src="/icons/Docker.png" title="Docker" alt="docker" width="44"/>&nbsp;
+  <img src="/icons/git.png" title="Git" alt="git" width="44"/>&nbsp;
+  <img src="/icons/GH.png" title="GitHub" alt="github" width="44"/>&nbsp;
+  <img src="/icons/GL.png" title="GitLab" alt="gitlab" width="44"/>&nbsp;
+  <img src="/icons/npm.png" title="NPM" alt="npm" width="44"/>&nbsp;
+  <img src="/icons/pnpm.png" title="PNPM" alt="pnpm" width="44"/>&nbsp;
+</div>
