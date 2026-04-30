@@ -198,4 +198,49 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   </div>
 </div>
 
+<table cellspacing="0" cellpadding="0" border="0">
+  <tr valign="top">
+    <!-- Frontend -->
+    <td style="border: none;">
+      <h4>Frontend</h4>
+      <img src="/icons/HTML.png" title="HTML" width="44"/>
+      <img src="/icons/CSS.png" title="CSS" width="44"/>
+      <img src="/icons/JS.png" title="JS" width="44"/>
+      <img src="/icons/TS.png" title="TS" width="44"/><br>
+      <img src="/icons/React.png" title="React" width="44"/>
+      <img src="/icons/Tailwind.png" title="Tailwind" width="44"/>
+      <img src="/icons/Bootstrap.png" title="Bootstrap" width="44"/>
+      <img src="/icons/vite.png" title="Vite" width="44"/><br>
+      <img src="/icons/AntDesign.png" title="AntDesign" width="44"/>
+      <img src="/icons/webpack.png" title="Webpack" width="44"/>
+      <img src="/icons/Zustand.png" title="Zustand" width="44"/>
+      <img src="/icons/ThreeJS.png" title="ThreeJS" width="44"/><br>
+      <img src="/icons/GSAP.png" title="GSAP" width="44"/>
+    </td>
+    <td width="20" style="border: none;"></td> <!-- Разделитель -->
+    <!-- Backend -->
+    <td style="border: none;">
+      <h4>Backend</h4>
+      <img src="/icons/NodeJS.png" title="NodeJS" width="44"/>
+      <img src="/icons/PostgreSQL.png" title="PostgreSQL" width="44"/>
+      <img src="/icons/Prisma.png" title="Prisma" width="44"/>
+      <img src="/icons/OpenAPI.png" title="OpenAPI" width="44"/><br>
+      <img src="/icons/php.png" title="PHP" width="44"/>
+      <img src="/icons/mySQL.png" title="MySQL" width="44"/>
+    </td>
+    <td width="20" style="border: none;"></td> <!-- Разделитель -->
+    <!-- Инструменты -->
+    <td style="border: none;">
+      <h4>Инструменты</h4>
+      <img src="/icons/Docker.png" title="Docker" width="44"/>
+      <img src="/icons/git.png" title="Git" width="44"/>
+      <img src="/icons/GH.png" title="GitHub" width="44"/>
+      <img src="/icons/GL.png" title="GitLab" width="44"/><br>
+      <img src="/icons/npm.png" title="NPM" width="44"/>
+      <img src="/icons/pnpm.png" title="PNPM" width="44"/>
+      <img src="/icons/Figma.png" title="Figma" width="44"/>
+      <img src="/icons/cPanel.png" title="cPanel" width="44"/>
+    </td>
+  </tr>
+</table>
 
