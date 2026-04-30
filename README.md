@@ -5,10 +5,10 @@
   <p>Frontend разарботчик</p>
   <a href="https://t.me/onemv">
     <img class="icon" src="/icons/TelegramButton.png" title="Открыть Telegram" alt="html" width="100"/>
-  </a>&nbsp;
+  </a>
   <a href="mailto:mvdeon@yandex.ru">
     <img class="icon" src="/icons/EMailButton.png" title="Отправить письмо на E-Mail" alt="html" width="100"/>
-  </a>&nbsp;
+  </a>
   </kbd>
 </div>
 
