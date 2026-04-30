@@ -24,7 +24,7 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   <img src="/icons/AntDesign.png" title="AntDesign" alt="tailwind" width="44"/>&nbsp;
   <img src="/icons/webpack.png" title="Webpack" alt="webpack" width="44"/>&nbsp;
   <img src="/icons/Zustand.png" title="Zustand" alt="zustand" width="44"/>&nbsp;
-  <img src="/icons/ThreeJS.png" title="ThreeJS" alt="threejs" width="44"/>&nbsp;
+  <img src="/icons/ThreeJS.png" title="ThreeJS" alt="threejs" width="44"/>&nbsp;<br />
   <img src="/icons/GSAP.png" title="GSAP" alt="gsap" width="44"/>&nbsp;
 </div>
 <div>
