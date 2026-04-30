@@ -3,7 +3,7 @@
   <kbd>
   <img align="left" class="icon" src="/icons/windowIcons.png" title="" alt="" width="30"/>&nbsp;
   <h3>Москвитин Максим</h3>
-  <i>Frontend разарботчик</i>
+  <a>Frontend разарботчик</a>
   
   <kbd>
   <a href="https://t.me/onemv">
