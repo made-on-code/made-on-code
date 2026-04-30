@@ -1,7 +1,8 @@
 ## Максим ✦ Frontend разработчик
 
-<div class="Header" style="width: 100%; height: 200px; background-color: #ffd08f;">
-  <
+<div>
+  <img class="icon" src="/icons/HTML.png" title="HTML" alt="html" width="44"/>&nbsp;
+  <img class="icon" src="/icons/HTML.png" title="HTML" alt="html" width="44"/>&nbsp;
 </div>
 
 <h4>Frontend:</h4>
