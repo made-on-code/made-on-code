@@ -3,7 +3,6 @@
   <kbd>
   <img align="left" class="icon" src="/icons/windowIcons.png" title="" alt="" width="30"/>&nbsp;
   <h3>Москвитин Максим</h3>
-  <br>
   <a>Frontend разарботчик</a>
   <br><br>
   <kbd>
