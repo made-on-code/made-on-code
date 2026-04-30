@@ -39,7 +39,7 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   <img src="/icons/PostgreSQL.png" title="PostgreSQL" alt="postgresql" width="44"/>&nbsp;
   <img src="/icons/Prisma.png" title="Prisma" alt="prisma" width="44"/>&nbsp;
   <img src="/icons/OpenAPI.png" title="OpenAPI" alt="openapi" width="44"/>&nbsp;
-  <img src="/icons/php.png" title="PHP" alt="php" width="44"/>&nbsp;
+  <img src="/icons/php.png" title="PHP" alt="php" width="44"/>&nbsp;<br />
   <img src="/icons/mySQL.png" title="MySQL" alt="mysql" width="44"/>&nbsp;
 </div>
 </kbd>
@@ -51,7 +51,7 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   <img src="/icons/git.png" title="Git" alt="git" width="44"/>&nbsp;
   <img src="/icons/GH.png" title="GitHub" alt="github" width="44"/>&nbsp;
   <img src="/icons/GL.png" title="GitLab" alt="gitlab" width="44"/>&nbsp;
-  <img src="/icons/npm.png" title="NPM" alt="npm" width="44"/>&nbsp;
+  <img src="/icons/npm.png" title="NPM" alt="npm" width="44"/>&nbsp;<br />
   <img src="/icons/pnpm.png" title="PNPM" alt="pnpm" width="44"/>&nbsp;
   <img src="/icons/Figma.png" title="Figma" alt="figma" width="44"/>&nbsp;
   <img src="/icons/cPanel.png" title="cPanel" alt="cpanel" width="44"/>&nbsp;
