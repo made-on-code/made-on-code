@@ -32,4 +32,5 @@
   <img src="/icons/GL.png" title="GitLab" alt="gitlab" width="44"/>&nbsp;
   <img src="/icons/npm.png" title="NPM" alt="npm" width="44"/>&nbsp;
   <img src="/icons/pnpm.png" title="PNPM" alt="pnpm" width="44"/>&nbsp;
+  <img src="/icons/Figma.png" title="Figma" alt="figma" width="44"/>&nbsp;
 </div>
