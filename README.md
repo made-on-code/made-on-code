@@ -2,10 +2,10 @@
 
 Frontend:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="html" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="css" width="30" height="30"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="js" width="30" height="30"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/7330accdbc47e2dc0c19789a48533c4a3c50fe58/icons/react/react-original.svg" title="CSS" alt="css" width="30" height="30"/>&nbsp;
-  <img src="/icons/React.png" title="TailWind" alt="tailwind" width="44"/>&nbsp;
-  
+  <img src="/icons/HTML.png" title="HTML" alt="html" width="44"/>&nbsp;
+  <img src="/icons/CSS.png" title="CSS" alt="css" width="44"/>&nbsp;
+  <img src="/icons/JS.png" title="JS" alt="js" width="44"/>&nbsp;
+  <img src="/icons/TS.png" title="TS" alt="ts" width="44"/>&nbsp;
+  <img src="/icons/React.png" title="React" alt="react" width="44"/>&nbsp;
+  <img src="/icons/Tailwind.png" title="Tailwind" alt="tailwind" width="44"/>&nbsp;
 </div>
