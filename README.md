@@ -1,6 +1,6 @@
 ## Максим ✦ Frontend разработчик
 
-<div class="Header" style="width: 100%; height: 200px; color: #ffd08f;">
+<div class="Header" style="width: 100%; height: 200px; background-color: #ffd08f;">
   <
 </div>
 
