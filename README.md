@@ -32,6 +32,7 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   <img src="/icons/GSAP.png" title="GSAP" alt="gsap" width="44"/>&nbsp;
 </div>
 </kbd>
+</kbd>
 <div>
   <h4>Backend:</h4>
   <img src="/icons/NodeJS.png" title="NodeJS" alt="nodejs" width="44"/>&nbsp;
@@ -41,7 +42,7 @@ Frontend (более 1 года коммерции) | Backend (Pet-projects) | A
   <img src="/icons/php.png" title="PHP" alt="php" width="44"/>&nbsp;
   <img src="/icons/mySQL.png" title="MySQL" alt="mysql" width="44"/>&nbsp;
 </div>
-
+</kbd>
 <div>
   <h4>Инструменты:</h4>
   <kbd>
