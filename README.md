@@ -1,7 +1,7 @@
 
 <div align="center">
   <kbd>
-  <img align="left" class="icon" src="/icons/windowIcons.png" title="" alt="" width="20"/>&nbsp;
+  <img align="left" class="icon" src="/icons/windowIcons.png" title="" alt="" width="20"/>&nbsp;<a>GitHub - Максим Москвитин</a>
   <h3>Москвитин Максим</h3>
   <p>Frontend разарботчик</p>
   <kbd>
